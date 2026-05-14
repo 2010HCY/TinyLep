@@ -60,6 +60,7 @@ To make Lepton both compact after compression and previewable like an uncompress
 1. **TinyLep**: this project, a batch lossless JPG compression tool that compresses files and folders by drag-and-drop.
 2. **[LepViewer](https://github.com/2010HCY/LepViewer)**: double-click to instantly preview `.lep` files like ordinary images, without manual decompression.
 3. **[LepThumb](https://github.com/2010HCY/LepViewer/LepThumb)**: a Windows Explorer thumbnail plugin that allows direct preview of `.lep` thumbnails in folders.
+4. **[LeptonWASM](https://github.com/2010HCY/LeptonWASM)**: Enables websites or web applications to natively support the previewing and processing of the Lepton format.
 
 ## Acknowledgements
 

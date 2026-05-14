@@ -61,6 +61,7 @@ npm run build:avx
 1. **TinyLep**：即本项目，JPG 批量无损压缩工具，拖入文件、文件夹批量压缩。
 2. **[LepViewer](https://github.com/2010HCY/LepViewer)**：双击即可像普通图片一样即时预览 `.lep` 文件，无需手动解压再打开查看。
 3. **[LepThumb](https://github.com/2010HCY/LepViewer/tree/main/LepThumb)**：Windows 资源管理器缩略图插件，直接在文件夹中预览 `.lep` 缩略图。
+4. **[LeptonWASM](https://github.com/2010HCY/LeptonWASM)**:  让网站或 Web 应用原生支持预览和处理 Lepton 格式。
 
 ## 致谢
 
